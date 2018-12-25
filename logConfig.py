@@ -1,4 +1,6 @@
-#coding=utf8
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import logging
 import logging.config
 import yaml
